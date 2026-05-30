@@ -19,7 +19,7 @@ The Amazon Sales Dashboard is an interactive Power BI project designed to analyz
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 
 ---
 
